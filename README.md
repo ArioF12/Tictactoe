@@ -22,8 +22,8 @@ Seorang **pemula** yang sedang belajar membuat aplikasi mobile dengan React Nati
 
 | Project | Deskripsi | Teknologi |
 |---|---|---|
-| [TodoApp](https://github.com/Masihpemula-Puh/NAMA-REPO-TODOAPP) | Aplikasi daftar tugas dengan CRUD dan data realtime | React Native, Expo, Firebase |
-| [TicTacToe](https://github.com/Masihpemula-Puh/NAMA-REPO-TICTACTOE) | Game Tic Tac Toe sederhana | React Native, Expo, Expo Router |
+| [TodoApp](https://github.com/ArioF12/NAMA-REPO-TODOAPP) | Aplikasi daftar tugas dengan CRUD dan data realtime | React Native, Expo, Firebase |
+| [TicTacToe](https://github.com/ArioF12/NAMA-REPO-TICTACTOE) | Game Tic Tac Toe sederhana | React Native, Expo, Expo Router |
 
 ## 🎯 Target Selanjutnya
 
@@ -31,11 +31,13 @@ Seorang **pemula** yang sedang belajar membuat aplikasi mobile dengan React Nati
 - [ ] Membuat APK dengan EAS Build
 - [ ] Membuat aplikasi sendiri dari nol
 
+
 ## 📫 Kontak
 
-- 📧 Email: ISI_EMAIL_ANDA
-- 📸 Instagram: ISI_USERNAME_IG
+- 📧 Email:@ariosimbolon12@gmail.com
 
----
+## HASIL
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/e3137667-9d80-41a9-9070-329ef72750db" />
+
 
 ⭐ Terima kasih sudah mampir! Kalau ada saran atau masukan, silakan buka *issue* di repo saya.
