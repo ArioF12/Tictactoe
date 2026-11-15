@@ -1,56 +1,41 @@
-# Welcome to your Expo app 👋
+# Hai, saya Puh 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Seorang **pemula** yang sedang belajar membuat aplikasi mobile dengan React Native. Masih banyak error yang harus dibereskan, tapi setiap error adalah pelajaran. 🚀
 
-## Get started
+## 🌱 Sedang Saya Pelajari
 
-1. Install dependencies
+- 📱 React Native & Expo
+- 🔥 Firebase (Firestore)
+- ⚛️ React Hooks & React Navigation
+- 🧰 Git & GitHub
 
-   ```bash
-   npm install
-   ```
+## 🛠️ Teknologi
 
-2. Start the app
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-   ```bash
-   npx expo start
-   ```
+## 📂 Project Saya
 
-In the output, you'll find options to open the app in a
+| Project | Deskripsi | Teknologi |
+|---|---|---|
+| [TodoApp](https://github.com/Masihpemula-Puh/NAMA-REPO-TODOAPP) | Aplikasi daftar tugas dengan CRUD dan data realtime | React Native, Expo, Firebase |
+| [TicTacToe](https://github.com/Masihpemula-Puh/NAMA-REPO-TICTACTOE) | Game Tic Tac Toe sederhana | React Native, Expo, Expo Router |
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🎯 Target Selanjutnya
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- [ ] Menambah fitur login dengan Firebase Auth
+- [ ] Membuat APK dengan EAS Build
+- [ ] Membuat aplikasi sendiri dari nol
 
-## Get a fresh project
+## 📫 Kontak
 
-When you're ready, run:
+- 📧 Email: ISI_EMAIL_ANDA
+- 📸 Instagram: ISI_USERNAME_IG
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+⭐ Terima kasih sudah mampir! Kalau ada saran atau masukan, silakan buka *issue* di repo saya.
