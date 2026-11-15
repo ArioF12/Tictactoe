@@ -1,4 +1,4 @@
-# Hai, saya Puh 👋
+# Hai, saya Ario 👋
 
 Seorang **pemula** yang sedang belajar membuat aplikasi mobile dengan React Native. Masih banyak error yang harus dibereskan, tapi setiap error adalah pelajaran. 🚀
 
